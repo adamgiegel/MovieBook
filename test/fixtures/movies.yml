@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  trailer: MyString
+  starring: MyString
+  info: MyString
+
+two:
+  title: MyString
+  trailer: MyString
+  starring: MyString
+  info: MyString
