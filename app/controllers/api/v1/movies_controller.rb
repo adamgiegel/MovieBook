@@ -5,6 +5,9 @@ class Api::V1::MoviesController < ApplicationController
       render json: @movies
     end
 
+    # def create#where the post request goes
+    # end
+
     def update
       @movie.update(movie_params)
       if @movie.save
